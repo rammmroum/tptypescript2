@@ -1,0 +1,1 @@
+nom:string = "amine";
